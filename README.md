@@ -10,6 +10,9 @@ https://www.credly.com/badges/8b01eee3-bc6f-4ff4-8134-6b3617c3e332/public_url
 
 Welcome to the **Neural Networks Ahoy** project! This repository showcases a cutting-edge approach to ship classification using neural networks, specifically designed to enhance maritime mastery through advanced machine learning techniques.
 
+## Project Demo link
+[Click here](https://huggingface.co/spaces/AronWolverine/shipclassification)
+
 ## Project Overview
 
 The goal of this project is to develop and implement a state-of-the-art neural network model for classifying ships based on their images. The project leverages deep learning techniques to accurately identify ship types, improving maritime operations and safety.
